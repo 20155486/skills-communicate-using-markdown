@@ -15,3 +15,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 print("Hello, World")
 ```
 
+#### To Do
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] World Domination
+
+
