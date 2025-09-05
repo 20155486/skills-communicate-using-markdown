@@ -4,5 +4,14 @@
 
 #### About Me
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 #### Contact
+
+``` python
+print("Hello, World")
+```
 
